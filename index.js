@@ -12,11 +12,11 @@ var Events = Discordie.Events;
 const request = require("request");
 var Events = Discordie.Events;
 var ownerid = "244509121838186497";
-var token = "MjUyNTAwNzYwNzUzODY0NzA1.DQXheg.IObcgeeSM5ZnEWcZUi4TrtZKbwY";
+var token = "oshit";
 var cthid = "284432595905675264";
 function dbots() {
   var https = require("https");
-  var authToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNDQ1MDkxMjE4MzgxODY0OTciLCJyYW5kIjo5LCJpYXQiOjE0Nzk2NDQ2Njl9.ZdsxwurfzAtkTmBXl53YxpgM99pAAto5vAqnW7JFZvo";
+  var authToken = "oshit";
   var options = {
     hostname: "bots.discord.pw",
 
